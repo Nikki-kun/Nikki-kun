@@ -1,1 +1,3 @@
-<iframe src="https://giphy.com/embed/mlBDoVLOGidEc" width="480" height="326" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/car-driving-mlBDoVLOGidEc">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1mYXdka2l4bWF3N2ptY3dtZTJnNDN3NndoZnk1NTltM3h4NndzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mlBDoVLOGidEc/giphy.gif" width="100"/>
+</div>
