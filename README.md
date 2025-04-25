@@ -1,4 +1,4 @@
-<div>Hello World!</div>
+<div align="center">Hello World!</div>
 <div>Hi, my name is Yaroslav and I am...</div>
 studying at the MAI :airplane:
 <div></div>
