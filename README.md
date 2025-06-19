@@ -2,7 +2,6 @@
 <div>Hi, my name is Yaroslav and I am...</div>
 studying at the MAI :airplane:
 <div></div>
-linuxuser :penguin:
 <div></div>
 work as a programmer :computer:
 <div id="header" align="center">
